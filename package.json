@@ -1,0 +1,24 @@
+{
+  "name": "knight-travails",
+  "version": "1.0.0",
+  "description": "Implementing BFS to find the shortest path to reach the next move of the knight in 8 x 8 chessboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avad05/Knight-Travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avad05/Knight-Travails/issues"
+  },
+  "homepage": "https://github.com/Avad05/Knight-Travails#readme",
+  "devDependencies": {
+    "webpack": "^5.100.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
